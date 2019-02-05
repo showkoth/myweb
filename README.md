@@ -1,2 +1,1 @@
-# myweb
-a simple website
+# mysite
